@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Branch</key>
+		<string>Aesthetics</string>
+		<key>Label</key>
+		<string>Study of Art</string>
+		<key>Information</key>
+		<string>Aesthetics (/ɛsˈθɛtɪks, iːs-, æs-/) is a branch of philosophy that deals with the nature of art, beauty and taste and with the creation or appreciation of beauty.
+
+In its more technical epistemological perspective, it is defined as the study of subjective and sensori-emotional values, or sometimes called judgments of sentiment and taste. Aesthetics studies how artists imagine, create and perform works of art; how people use, enjoy, and criticize art; and what happens in their minds when they look at paintings, listen to music, or read poetry, and understand what they see and hear. It also studies how they feel about art—why they like some works and not others, and how art can affect their moods, beliefs, and attitude toward life. The phrase was coined in English in the 18th century.
+
+More broadly, scholars in the field define aesthetics as &quot;critical reflection on art, culture and nature&quot;. In modern English, the term aesthetic can also refer to a set of principles underlying the works of a particular art movement or theory: one speaks, for example, of the Cubist aesthetic</string>
+		<key>Wiki</key>
+		<string>https://en.wikipedia.org/wiki/Aesthetics</string>
+		<key>SEP</key>
+		<string>https://plato.stanford.edu/entries/aesthetic-concept/</string>
+	</dict>
+	<dict>
+		<key>Branch</key>
+		<string>Epistemology</string>
+		<key>Label</key>
+		<string>Study of Knowledge</string>
+		<key>Information</key>
+		<string>Epistemology (/ɪˌpɪstɪˈmɒlədʒi/); from Greek, Modern ἐπιστήμη, epistēmē, meaning &apos;knowledge&apos;, and λόγος, logos, meaning &apos;the study of [a certain subject]) is the branch of philosophy concerned with the theory of knowledge.
+
+Epistemology is the study of the nature of knowledge, justification, and the rationality of belief. Much debate in epistemology centers on four areas: (1) the philosophical analysis of the nature of knowledge and how it relates to such concepts as truth, belief, and justification, (2) various problems of skepticism, (3) the sources and scope of knowledge and justified belief, and (4) the criteria for knowledge and justification. Epistemology addresses such questions as: &quot;What makes justified beliefs justified?&quot;, &quot;What does it mean to say that we know something?&quot;, and fundamentally &quot;How do we know that we know?&quot;</string>
+		<key>Wiki</key>
+		<string>https://en.wikipedia.org/wiki/Epistemology</string>
+		<key>SEP</key>
+		<string>https://plato.stanford.edu/entries/epistemology/</string>
+	</dict>
+	<dict>
+		<key>Branch</key>
+		<string>Ethics</string>
+		<key>Label</key>
+		<string>Study of Action</string>
+		<key>Information</key>
+		<string>Ethics or moral philosophy is a branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong conduct. The field of ethics, along with aesthetics, concerns matters of value, and thus comprises the branch of philosophy called axiology.
+
+Ethics seeks to resolve questions of human morality by defining concepts such as good and evil, right and wrong, virtue and vice, justice and crime. As a field of intellectual inquiry, moral philosophy also is related to the fields of moral psychology, descriptive ethics, and value theory.
+
+Three major areas of study within ethics recognized today are:
+
+1. Meta-ethics, concerning the theoretical meaning and reference of moral propositions, and how their truth values (if any) can be determined
+2. Normative ethics, concerning the practical means of determining a moral course of action
+3. Applied ethics, concerning what a person is obligated (or permitted) to do in a specific situation or a particular domain of action</string>
+		<key>Wiki</key>
+		<string>https://en.wikipedia.org/wiki/Ethics</string>
+		<key>SEP</key>
+		<string>https://plato.stanford.edu/entries/ethics-ancient/#Oth</string>
+	</dict>
+	<dict>
+		<key>Branch</key>
+		<string>Metaphysics</string>
+		<key>Label</key>
+		<string>Study of Existence</string>
+		<key>Information</key>
+		<string>Metaphysics is the branch of philosophy that examines the fundamental nature of reality, including the relationship between mind and matter, between substance and attribute, and between possibility and actuality. The word &quot;metaphysics&quot; comes from two Greek words that, together, literally mean &quot;after or behind or among [the study of] the natural&quot;. It has been suggested that the term might have been coined by a first century CE editor who assembled various small selections of Aristotle’s works into the treatise we now know by the name Metaphysics (ta meta ta phusika, &apos;after the Physics &apos;, another of Aristotle&apos;s works).
+
+Metaphysics studies questions related to what it is for something to exist and what types of existence there are. Metaphysics seeks to answer, in an abstract and fully general manner, the questions:
+
+What is there?
+What is it like?
+Topics of metaphysical investigation include existence, objects and their properties, space and time, cause and effect, and possibility.</string>
+		<key>Wiki</key>
+		<string>https://en.wikipedia.org/wiki/Metaphysics</string>
+		<key>SEP</key>
+		<string>https://plato.stanford.edu/entries/metaphysics/</string>
+	</dict>
+	<dict>
+		<key>Branch</key>
+		<string>Politics</string>
+		<key>Label</key>
+		<string>Study of Force</string>
+		<key>Information</key>
+		<string>Political philosophy, also known as political theory, is the study of topics such as politics, liberty, justice, property, rights, law, and the enforcement of laws by authority: what they are, if they are needed, what makes a government legitimate, what rights and freedoms it should protect, what form it should take, what the law is, and what duties citizens owe to a legitimate government, if any, and when it may be legitimately overthrown, if ever.
+
+In a vernacular sense, the term &quot;political philosophy&quot; often refers to a general view, or specific ethic, political belief or attitude, about politics, synonymous to the term &quot;political ideology&quot;.
+
+Political philosophy is a branch of philosophy. Within political science, a strong focus has historically been placed on the role of political philosophy (also known as normative theory), moral philosophy and the humanities, although in recent years there has been increased focus to political theory based on quantitative methodological approaches as well as economic theory, the natural sciences and behaviouralism.</string>
+		<key>Wiki</key>
+		<string>https://en.wikipedia.org/wiki/Political_philosophy</string>
+		<key>SEP</key>
+		<string>https://plato.stanford.edu/entries/ancient-political/</string>
+	</dict>
+</array>
+</plist>
